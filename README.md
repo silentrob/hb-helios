@@ -5,7 +5,7 @@ This template has been modified to work with the [@HarpPlatform](http://twitter.
 
 [View a live demo](http://helios.harp.io) 
 
-This beautiful template is created by AJ at HTML5 UP, and license, and attribution is below.
+This beautiful template is created by AJ at HTML5 UP, license and attribution is below.
 
 ### Original Readme and License
 html5up.net | @n33co
